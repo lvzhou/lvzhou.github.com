@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Hello World!
+title: 吕宙的博客
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
+
+
+我今天要开始写博客了！！！！！
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
